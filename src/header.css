@@ -1,0 +1,114 @@
+.header{
+    display : flex;
+    width:100%;
+    flex-direction: row;
+    height: 70px;
+    position: fixed;
+    z-index: 0;
+    align-items: center;
+    background-color: black;
+    margin-top: -10px;
+   
+    
+  
+}
+.logo{
+    height:35px;
+    margin-left: 60px;
+}
+.Menus{
+    display : flex;
+    width:500px;
+    flex-direction: row;
+    color:white;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 200px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-left: 50px;
+    font-size: 15px;
+  
+    
+}
+
+.searchicon{
+
+    width:26px;
+    color:white;
+    margin-right: 10px;
+ 
+   
+
+   
+    
+
+}
+.searchbar{
+   height: 33px;
+   width: 280px;
+   margin-left: 36px;
+  
+ 
+   
+}
+
+
+.tv-menu,.movies-menu,.popular-menu,.mylist-menu{
+   margin-left: 20px;
+}
+.endsection{
+    display: flex;
+    flex-direction: row;
+    flex:2;
+    align-items: center;
+    height:60px;
+
+}
+.search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width:380px;
+    margin-left: 100px;
+    height:60px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login-icons{
+    display: flex;
+    width:230px;
+    flex-direction: row;
+    align-items: center;
+    height: 60px;
+    justify-content: space-between;
+    margin-left: 20px;
+    
+    
+
+}
+.childacc{
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.bell-icon{
+    height: 25px;
+
+}
+
+.user-icon{
+    height: 43px;
+    border-radius: 5px;
+}
+.down-icon{
+    height: 12px;
+    margin-right: 38px;
+
+
+}
+

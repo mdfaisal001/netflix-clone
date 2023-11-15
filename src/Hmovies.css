@@ -1,0 +1,21 @@
+.hmovie-info{
+    height: 270px;
+    width: 200px;
+    overflow: hidden;
+    display: inline-block;
+    width: 200px;
+    transition: transform 0.2s ease-in-out;
+    margin: 4px;
+  
+
+}
+.hmv-img{
+    height: 300px;
+    display: cover;
+    width: 100%;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.hmovie-info:hover{
+    transform: scale(1.1);
+}
